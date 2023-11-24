@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Playfair";
+    src: url(../Fonts/playfair.woff2);
+  }
+
+body{
+    background-color: #ad8660;
+}
+
+footer{
+    font-size: medium;
+    font-family: "Playfair";
+}
+
+h1{
+    font-size: 2em;
+    font-family: "Playfair";
+}
+
+iframe{
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+}
+
+img, video{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
